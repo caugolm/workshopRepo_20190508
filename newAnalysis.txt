@@ -1,5 +1,0 @@
-The master branch still points to the older commit
-So we're one commit ahead of the master branch
-Use "Checkout" in right click or double click to switch branches
-Use "Checkout" in right click or double click to switch branches
-Adding extra stuff before merge to master
