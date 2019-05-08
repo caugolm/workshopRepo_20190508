@@ -12,3 +12,5 @@ Git doesn't track creation/deletion of empty subdirectories, but it will track a
 
 A soft reset is recommended -- gets rid of commits but doesn't change files back
 Hard reset -- what it sounds like-- that part of the version history is gone
+
+Branching can be helpful for testing or working parallel
