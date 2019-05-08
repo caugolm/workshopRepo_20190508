@@ -1,3 +1,11 @@
 Text file for testing
 Changing to see if it breaks
-Editing in GitKraken
+
+Commit-style practices
+	Commits are the units of version control
+	They should each "do" one thing -- not necessary for each individual change, but helpful for each "group" of changes
+	Commit messages should indicate what done by commit
+	Lots of small commitments lead to a steady relationship with your code
+	"Think a little about what you're doing"
+
+ 
