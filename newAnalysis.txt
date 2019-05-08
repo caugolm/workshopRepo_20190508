@@ -1,0 +1,5 @@
+
+Use "Checkout" in right click or double click to switch branches
+Adding extra stuff before merge to master
+
+If you edit the same file in both branch and master, then it'll bother you
