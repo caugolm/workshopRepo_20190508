@@ -14,3 +14,5 @@ A soft reset is recommended -- gets rid of commits but doesn't change files bac
 Hard reset -- what it sounds like-- that part of the version history is gone
 
 Branching can be helpful for testing or working parallel
+
+Merge a branch back to master ("trunk") once testing is complete
