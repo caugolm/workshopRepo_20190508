@@ -1,0 +1,2 @@
+The master branch still points to the older commit
+So we're one commit ahead of the master branch
