@@ -8,4 +8,4 @@ Commit-style practices
 	Lots of small commitments lead to a steady relationship with your code
 	"Think a little about what you're doing"
 
- 
+Git doesn't track creation/deletion of empty subdirectories, but it will track adding, deleting, and changing the files within them (it tracks files recursively)
